@@ -1,0 +1,16 @@
+.jumbotron{
+    background-image: url(/images/AberdeenBanner.jpg);
+    background-size: cover;
+    color: white;
+}
+
+.nav{
+    background-color: rgb(169, 169, 169);
+}
+
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    color: black;
+}
