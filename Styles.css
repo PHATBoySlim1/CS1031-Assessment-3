@@ -4,7 +4,7 @@
 }
 
 .nav{
-    background-color: rgb(169, 169, 169);
+    background-color:inherit;
 }
 
 .nav-link{
@@ -12,23 +12,33 @@
 }
 
 .nav-link:hover{
-    color: black;
+    color: rgb(144,144,144);
 }
 
 .col-sm-8{
-    background-color: rgb(169, 169, 169);
+    background-color: rgb(12, 12, 63);
     padding: 10px;
 }
 
 .col-sm-4{
-    background-color: rgb(144, 144, 144);
+    background-color: rgb(10, 15, 53);
     padding: 10px;
 }
 
 h3{
     padding-left: 20px;
+    color: rgb(144,144,144);
+}
+
+h6{
+    font-style:italic;
 }
 
 p{
-    padding-left: 20px
+    padding-left: 20px;
+    color: rgb(169, 169, 169);
+}
+
+li{
+    color: rgb(169, 169, 169);
 }
