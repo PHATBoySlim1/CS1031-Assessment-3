@@ -55,6 +55,13 @@
     background-color: rgb(53, 53, 53);
 }
 
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: inherit;
+}
+
 button{
     width:100%;
 }
