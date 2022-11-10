@@ -25,13 +25,18 @@
     padding: 10px;
 }
 
+.col{
+    background-color: rgb(64, 6, 6);
+    padding: 10px;
+}
+
 h3{
     padding-left: 20px;
     color: rgb(144,144,144);
 }
 
 h4{
-    padding-left: 10px;
+    padding-left: 20px;
     color:rgb(169, 169, 169)
 }
 
@@ -46,4 +51,14 @@ p{
 
 li{
     color: rgb(169, 169, 169);
+}
+
+img{
+    color:rgb(0, 0, 0);
+    font-size: 10px;
+}
+
+footer{
+    color:rgb(20, 20, 20);
+    padding: 0px;
 }
