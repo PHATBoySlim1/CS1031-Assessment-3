@@ -58,7 +58,6 @@ img{
     font-size: 10px;
 }
 
-footer{
-    color:rgb(20, 20, 20);
-    padding: 0px;
+footer p{
+    color:rgb(52, 52, 52);
 }
